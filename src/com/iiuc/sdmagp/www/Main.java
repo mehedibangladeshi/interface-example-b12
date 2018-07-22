@@ -8,7 +8,6 @@ public class Main {
         Nilufa nilufa = new Nilufa();
 
         nilufa.sleeps();
-
         fariha.sleeps();
 
 
