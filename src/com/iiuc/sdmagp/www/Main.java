@@ -8,14 +8,9 @@ public class Main {
         Nilufa nilufa = new Nilufa();
 
         nilufa.sleeps();
-        nilufa.eats();
-        nilufa.runs();
-        nilufa.works();
 
         fariha.sleeps();
-        fariha.eats();
-        fariha.runs();
-        fariha.works();
+
 
 
 
